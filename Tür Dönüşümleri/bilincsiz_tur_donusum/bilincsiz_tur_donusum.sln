@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bilincsiz_tur_donusum", "bilincsiz_tur_donusum\bilincsiz_tur_donusum.csproj", "{EDC339C4-7E9C-4EFD-9113-DD785C51BC5B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EDC339C4-7E9C-4EFD-9113-DD785C51BC5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDC339C4-7E9C-4EFD-9113-DD785C51BC5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDC339C4-7E9C-4EFD-9113-DD785C51BC5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDC339C4-7E9C-4EFD-9113-DD785C51BC5B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B57EF528-5590-4C59-91A2-061C8F5C6897}
+	EndGlobalSection
+EndGlobal
