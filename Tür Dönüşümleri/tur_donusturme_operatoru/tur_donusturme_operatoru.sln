@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tur_donusturme_operatoru", "tur_donusturme_operatoru\tur_donusturme_operatoru.csproj", "{1710F71C-AC5C-411F-A186-D42A6EAB8E65}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1710F71C-AC5C-411F-A186-D42A6EAB8E65}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1710F71C-AC5C-411F-A186-D42A6EAB8E65}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1710F71C-AC5C-411F-A186-D42A6EAB8E65}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1710F71C-AC5C-411F-A186-D42A6EAB8E65}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3EF9A61E-73DD-4ADE-9449-58C2CAA07EBD}
+	EndGlobalSection
+EndGlobal
