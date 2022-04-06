@@ -1,6 +1,6 @@
 ﻿using System;
 
-class girilen_sayinin_karesi
+class Girilen_sayinin_karesi
 {
     static void Main()
     {

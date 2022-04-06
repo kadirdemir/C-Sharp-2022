@@ -1,5 +1,5 @@
 ﻿using System;
-class dikdortgenin_alani_ve_cevresi
+class Dikdortgenin_alani_ve_cevresi
 {
 	static void Main()
 	{
