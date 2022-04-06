@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mantiksal_degil_operatoru", "mantiksal_degil_operatoru\mantiksal_degil_operatoru.csproj", "{00FC386F-112A-4993-A213-CCDCAB6B5348}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{00FC386F-112A-4993-A213-CCDCAB6B5348}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00FC386F-112A-4993-A213-CCDCAB6B5348}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00FC386F-112A-4993-A213-CCDCAB6B5348}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00FC386F-112A-4993-A213-CCDCAB6B5348}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EE735FD7-9386-4315-87BC-4D5415026DB7}
+	EndGlobalSection
+EndGlobal
