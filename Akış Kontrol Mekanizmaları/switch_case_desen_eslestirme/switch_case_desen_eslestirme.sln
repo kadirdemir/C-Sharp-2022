@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "switch_case_desen_eslestirme", "switch_case_desen_eslestirme\switch_case_desen_eslestirme.csproj", "{1A0914E7-8A71-4BBD-8777-2EA4FD8AA129}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1A0914E7-8A71-4BBD-8777-2EA4FD8AA129}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A0914E7-8A71-4BBD-8777-2EA4FD8AA129}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A0914E7-8A71-4BBD-8777-2EA4FD8AA129}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A0914E7-8A71-4BBD-8777-2EA4FD8AA129}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {673FE2DE-94D7-4A15-9E2C-C9645D5F09D6}
+	EndGlobalSection
+EndGlobal
