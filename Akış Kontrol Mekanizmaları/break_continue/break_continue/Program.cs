@@ -23,6 +23,7 @@ class Break_continue
             }
 
             toplam += sayi;
+            //= {0} ifadesi yer tutucu veya "arguman" olarak işlev görür
             Console.WriteLine("Toplam ={0}", toplam);
             bironcekisayi = sayi;
         }
