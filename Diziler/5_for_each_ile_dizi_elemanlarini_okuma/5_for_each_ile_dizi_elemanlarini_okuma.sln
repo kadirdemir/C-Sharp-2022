@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32228.430
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5_for_each_ile_dizi_elemanlarini_okuma", "5_for_each_ile_dizi_elemanlarini_okuma\5_for_each_ile_dizi_elemanlarini_okuma.csproj", "{81E31FDF-E89D-4DD2-8654-1AC05061AC12}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{81E31FDF-E89D-4DD2-8654-1AC05061AC12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81E31FDF-E89D-4DD2-8654-1AC05061AC12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81E31FDF-E89D-4DD2-8654-1AC05061AC12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81E31FDF-E89D-4DD2-8654-1AC05061AC12}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7B0810E6-4E33-48B2-9C29-BDDF12742C92}
+	EndGlobalSection
+EndGlobal
